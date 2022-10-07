@@ -1,0 +1,6 @@
+make --dry-run --always-make --keep-going --print-directory
+make: Entering directory '/home/vinod/Documents/IIT Kharagpur/Developement/React JS'
+make: Leaving directory '/home/vinod/Documents/IIT Kharagpur/Developement/React JS'
+ 
+make: *** No targets specified and no makefile found.  Stop.
+
